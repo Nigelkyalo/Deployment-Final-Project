@@ -3,7 +3,7 @@
 
 =======
 # Deployment-Final-Project
->>>>>>> 9ff3a411012672c4e00c14b41302c411d5ecc9ea
+
 This project is a simple, clean, and responsive multipage portfolio website. It is designed for web developers or creatives to showcase their work, skills, and contact information. The site is built using only HTML, CSS, and JavaScript, making it lightweight and easy to customize.
 
 ## Features
